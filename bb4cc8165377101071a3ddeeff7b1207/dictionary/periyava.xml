@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Periyava" max_length="40" name="periyava" type="collection">
-        <element label="test" max_length="40" name="test" type="integer"/>
+        <element label="Daksha" max_length="40" name="daksha" type="integer"/>
     </element>
 </database>
